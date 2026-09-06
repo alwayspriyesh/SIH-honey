@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1008",
+  "honeyType": "Corbett Foothills Litchi Blossom",
+  "producer": "Terai Natural Harvesters",
+  "location": "Ramnagar, Uttarakhand",
+  "harvestDate": "05 May 2026",
+  "manufacturingDate": "10 May 2026",
+  "weight": "500g",
+  "status": "Verified",
+  "notes": "Delicate golden monovarietal nectar harvested during peak litchi flowering season in the Himalayan foothills.",
+  "moistureContent": "17.4%",
+  "officer": {
+    "name": "Dr. Arvind Joshi",
+    "designation": "Senior Food Quality Auditor",
+    "agency": "FSSAI & State Horticulture Dept",
+    "badgeId": "FSSAI-UK-3319",
+    "rating": 4.8,
+    "reviewsCount": 155,
+    "inspectedAt": "07 May 2026, 10:00 AM IST",
+    "station": "Nainital District Quality Lab"
+  },
+  "geography": {
+    "region": "Terai Sub-Himalayan Foothills",
+    "state": "Uttarakhand, India",
+    "coordinates": "29.3949° N, 79.1255° E",
+    "altitude": "450m ASL",
+    "terrain": "Moist deciduous orchard & Sal forest boundary",
+    "dominantFlora": "Litchi chinensis & Shorea robusta (Sal)",
+    "soilType": "Fertile Terai Loam, Natural Compost"
+  },
+  "qualityAnalysis": {
+    "moisture": "17.4%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "6.8 mg/kg",
+    "hmfStatus": "Fresh & Raw (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "44,000 grains/g",
+    "adulterationStatus": "100% Natural Litchi Blossom Honey"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Ramnagar Orchard Grove",
+      "date": "05 May 2026",
+      "status": "Orchard Bloom"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Foothills Apiary #03",
+      "date": "05 May 2026",
+      "status": "Centrifugal Extraction"
+    },
+    {
+      "stage": "Processing",
+      "location": "Haldwani Clean Lab",
+      "date": "07 May 2026",
+      "status": "Unheated Straining"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Dehradun Center",
+      "date": "10 May 2026",
+      "status": "Glass Packaged"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "10 May 2026",
+      "status": "Certified"
+    }
+  ]
+}

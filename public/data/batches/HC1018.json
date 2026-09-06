@@ -1,0 +1,47 @@
+{
+  "batchId": "HC1018",
+  "honeyType": "Wildflower Honey",
+  "producer": "Sahya Honey Collective",
+  "location": "Nilgiris, Tamil Nadu",
+  "harvestDate": "09 Aug 2026",
+  "manufacturingDate": "14 Aug 2026",
+  "weight": "250g",
+  "status": "Verified",
+  "notes": "Multifloral raw mountain honey from native Apis cerana colonies foraging on wild highland herbs.",
+  "moistureContent": "17.8%",
+  "officer": {
+    "name": "Inspector Ananya Sharma",
+    "designation": "Senior Apiculture Quality Auditor",
+    "agency": "National Bee Board (NBB) Certified",
+    "badgeId": "NBB-TN-3108",
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "inspectedAt": "11 Aug 2026, 09:45 AM IST",
+    "station": "Nilgiris Highland Honey Testing Center"
+  },
+  "geography": {
+    "region": "Nilgiris Biosphere Reserve (Highland Zone)",
+    "state": "Tamil Nadu, India",
+    "coordinates": "11.4102° N, 76.6950° E",
+    "altitude": "2,240m ASL",
+    "terrain": "Montane shola forest grassland ridge",
+    "dominantFlora": "Wild Mountain Thyme, Eucalyptus & Neelakurinji",
+    "soilType": "Laterite Humus, Zero Agro-chemicals"
+  },
+  "qualityAnalysis": {
+    "moisture": "17.8%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "6.2 mg/kg",
+    "hmfStatus": "Ultra-fresh, Raw & Unpasteurized (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "38,500 grains/g",
+    "adulterationStatus": "100% Authentic Multifloral Wild Honey"
+  },
+  "traceability": [
+    { "stage": "Bee Farm", "location": "Nilgiris, Tamil Nadu", "date": "09 Aug 2026", "status": "Collected" },
+    { "stage": "Harvest", "location": "Highland Apiary #12", "date": "09 Aug 2026", "status": "Matured Comb" },
+    { "stage": "Processing", "location": "Ooty Clean Lab", "date": "11 Aug 2026", "status": "Unheated" },
+    { "stage": "Packaging", "location": "Nilgiris Center", "date": "14 Aug 2026", "status": "Tamper Sealed" },
+    { "stage": "Verified", "location": "Honey Chain Protocol", "date": "14 Aug 2026", "status": "Verified" }
+  ]
+}

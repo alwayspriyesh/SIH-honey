@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1001",
+  "honeyType": "Sundarbans Mangrove Honey",
+  "producer": "Sundarbans Forest Honey Cooperative",
+  "location": "South 24 Parganas, West Bengal",
+  "harvestDate": "18 Apr 2026",
+  "manufacturingDate": "24 Apr 2026",
+  "weight": "500g",
+  "status": "Verified",
+  "notes": "Grade A raw mangrove nectar collected by traditional Mouly honey hunters in protected tidal zones.",
+  "moistureContent": "18.1%",
+  "officer": {
+    "name": "Subhashis Bose",
+    "designation": "Senior Forest Produce Quality Officer",
+    "agency": "West Bengal Forest Dept & National Bee Board",
+    "badgeId": "NBB-WB-1021",
+    "rating": 4.9,
+    "reviewsCount": 210,
+    "inspectedAt": "20 Apr 2026, 10:15 AM IST",
+    "station": "Canning Forest Testing Division"
+  },
+  "geography": {
+    "region": "Sundarbans Biosphere Reserve (Mangrove Core)",
+    "state": "West Bengal, India",
+    "coordinates": "21.9497° N, 88.9007° E",
+    "altitude": "4m ASL",
+    "terrain": "Tidal mangrove estuarine forest",
+    "dominantFlora": "Aegiceras corniculatum (Khalsi) & Avicennia officinalis",
+    "soilType": "Saline-Clay Mangrove Silt, Zero Agro-chemicals"
+  },
+  "qualityAnalysis": {
+    "moisture": "18.1%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "7.8 mg/kg",
+    "hmfStatus": "Raw & Fresh from Hive (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "48,000 grains/g",
+    "adulterationStatus": "100% Authentic Wild Mangrove Honey"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Sundarbans Tidal Zone #02",
+      "date": "18 Apr 2026",
+      "status": "Wild Comb Harvest"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Mouly Collection Boat",
+      "date": "18 Apr 2026",
+      "status": "Traditional Extraction"
+    },
+    {
+      "stage": "Processing",
+      "location": "Canning Cold Filtration Facility",
+      "date": "20 Apr 2026",
+      "status": "Unheated Raw"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Kolkata Distribution Hub",
+      "date": "24 Apr 2026",
+      "status": "Tamper Sealed"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "24 Apr 2026",
+      "status": "Certified"
+    }
+  ]
+}

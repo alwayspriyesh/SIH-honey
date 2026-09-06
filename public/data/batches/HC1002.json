@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1002",
+  "honeyType": "Kashmir White Acacia Honey",
+  "producer": "Valley Apiculture Guild",
+  "location": "Ganderbal, Jammu & Kashmir",
+  "harvestDate": "28 May 2026",
+  "manufacturingDate": "04 Jun 2026",
+  "weight": "250g",
+  "status": "Verified",
+  "notes": "Rare water-white monovarietal raw Robinia pseudoacacia nectar from high Himalayan valleys.",
+  "moistureContent": "16.8%",
+  "officer": {
+    "name": "Dr. Farooq Mir",
+    "designation": "State Apiculture & Food Safety Officer",
+    "agency": "FSSAI & National Bee Board Certified",
+    "badgeId": "FSSAI-JK-4402",
+    "rating": 4.9,
+    "reviewsCount": 176,
+    "inspectedAt": "30 May 2026, 09:30 AM IST",
+    "station": "Srinagar Central Quality Control Lab"
+  },
+  "geography": {
+    "region": "Sindh River Alpine Valley",
+    "state": "Jammu & Kashmir, India",
+    "coordinates": "34.2268° N, 74.7813° E",
+    "altitude": "1,620m ASL",
+    "terrain": "Sub-alpine temperate mountain valley",
+    "dominantFlora": "Robinia pseudoacacia (Black Locust/Acacia)",
+    "soilType": "Mountain Alluvial Loam, Pristine Glacier Fed"
+  },
+  "qualityAnalysis": {
+    "moisture": "16.8%",
+    "moistureStatus": "Exceptional Low Moisture (< 20% Standard)",
+    "hmfLevel": "5.1 mg/kg",
+    "hmfStatus": "Ultra-Fresh Raw (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "39,000 grains/g",
+    "adulterationStatus": "100% Monofloral White Acacia"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Ganderbal Apiary #01",
+      "date": "28 May 2026",
+      "status": "Acacia Peak Bloom"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Sindh Valley Comb",
+      "date": "28 May 2026",
+      "status": "Matured Capped Comb"
+    },
+    {
+      "stage": "Processing",
+      "location": "Srinagar Cold Lab",
+      "date": "30 May 2026",
+      "status": "Zero Thermal Process"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Kashmir Organic Hub",
+      "date": "04 Jun 2026",
+      "status": "Hermetic Glass Seal"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "04 Jun 2026",
+      "status": "Certified"
+    }
+  ]
+}

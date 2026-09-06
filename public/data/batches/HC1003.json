@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1003",
+  "honeyType": "Coorg Coffee Blossom Honey",
+  "producer": "Western Ghats Honey Guild",
+  "location": "Kodagu (Coorg), Karnataka",
+  "harvestDate": "12 Mar 2026",
+  "manufacturingDate": "18 Mar 2026",
+  "weight": "500g",
+  "status": "Verified",
+  "notes": "Aromatic spring harvest from shade-grown Arabica and Robusta coffee plantations under rainforest canopy.",
+  "moistureContent": "17.6%",
+  "officer": {
+    "name": "Vikramaditya Rao",
+    "designation": "District Apiculture Quality Inspector",
+    "agency": "National Bee Board (NBB) Certified",
+    "badgeId": "NBB-KA-2190",
+    "rating": 4.8,
+    "reviewsCount": 118,
+    "inspectedAt": "14 Mar 2026, 11:45 AM IST",
+    "station": "Madikeri Regional Honey Station"
+  },
+  "geography": {
+    "region": "Coorg Rainforest Ridge",
+    "state": "Karnataka, India",
+    "coordinates": "12.4244° N, 75.7382° E",
+    "altitude": "1,050m ASL",
+    "terrain": "Humid tropical evergreen & coffee shade canopy",
+    "dominantFlora": "Coffea Arabica blossom, Silver Oak & Wild Cardamom",
+    "soilType": "Rich Red Forest Humus, Zero Agro-chemicals"
+  },
+  "qualityAnalysis": {
+    "moisture": "17.6%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "9.2 mg/kg",
+    "hmfStatus": "Fresh & Raw (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "34,500 grains/g",
+    "adulterationStatus": "100% Pure Coffee Blossom Honey"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Madikeri Estate Apiary",
+      "date": "12 Mar 2026",
+      "status": "Blossom Synchronized"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Coffee Canopy Comb",
+      "date": "12 Mar 2026",
+      "status": "Centrifuged Raw"
+    },
+    {
+      "stage": "Processing",
+      "location": "Coorg Agro Lab",
+      "date": "14 Mar 2026",
+      "status": "Cold Micro-Strained"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Mysuru Dispatch Center",
+      "date": "18 Mar 2026",
+      "status": "Batch Coded"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "18 Mar 2026",
+      "status": "Certified"
+    }
+  ]
+}

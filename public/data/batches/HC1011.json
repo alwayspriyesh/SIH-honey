@@ -1,0 +1,47 @@
+{
+  "batchId": "HC1011",
+  "honeyType": "Organic Honey",
+  "producer": "Western Ghats Apiary",
+  "location": "Kodagu, Karnataka",
+  "harvestDate": "02 Aug 2026",
+  "manufacturingDate": "08 Aug 2026",
+  "weight": "500g",
+  "status": "Review",
+  "notes": "Moisture level flag (19.4%) requires secondary cooperative laboratory review prior to consumer distribution.",
+  "moistureContent": "19.4%",
+  "officer": {
+    "name": "Officer Vikramaditya Rao",
+    "designation": "District Food Safety Officer",
+    "agency": "FSSAI & State Apiculture Department",
+    "badgeId": "FSSAI-KA-1184",
+    "rating": 4.7,
+    "reviewsCount": 96,
+    "inspectedAt": "05 Aug 2026, 03:15 PM IST",
+    "station": "Kodagu District Food Quality Lab"
+  },
+  "geography": {
+    "region": "Kodagu (Coorg) Western Ghats Ridge",
+    "state": "Karnataka, India",
+    "coordinates": "12.4244° N, 75.7382° E",
+    "altitude": "900m ASL",
+    "terrain": "Sub-tropical hill evergreen forest & shade-grown coffee canopy",
+    "dominantFlora": "Coffee Blossom, Silver Oak & Forest Cardamom",
+    "soilType": "Rich Red Loamy Forest Soil"
+  },
+  "qualityAnalysis": {
+    "moisture": "19.4%",
+    "moistureStatus": "Caution (Flagged near 20% limit)",
+    "hmfLevel": "14.1 mg/kg",
+    "hmfStatus": "Fresh & Compliant (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% Added C4 Syrup detected)",
+    "pollenDensity": "29,000 grains/g",
+    "adulterationStatus": "Natural Honey — Elevated Moisture Flag"
+  },
+  "traceability": [
+    { "stage": "Bee Farm", "location": "Kodagu, Karnataka", "date": "02 Aug 2026", "status": "Collected" },
+    { "stage": "Harvest", "location": "Kodagu Valley #08", "date": "02 Aug 2026", "status": "Rain Season Extraction" },
+    { "stage": "Processing", "location": "Coorg Organic Center", "date": "05 Aug 2026", "status": "Pending Recheck" },
+    { "stage": "Packaging", "location": "Kodagu Hub", "date": "08 Aug 2026", "status": "Quarantined Batch" },
+    { "stage": "Verified", "location": "Honey Chain Protocol", "date": "08 Aug 2026", "status": "Under Review" }
+  ]
+}

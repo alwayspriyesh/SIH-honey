@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1009",
+  "honeyType": "Mahabaleshwar Jamun Wild Honey",
+  "producer": "Sahyadri Bee Conservation Trust",
+  "location": "Satara, Maharashtra",
+  "harvestDate": "14 Jun 2026",
+  "manufacturingDate": "20 Jun 2026",
+  "weight": "400g",
+  "status": "Verified",
+  "notes": "Dark, pungent monovarietal wild forest honey prized for traditional wellness and high antioxidant density.",
+  "moistureContent": "18.2%",
+  "officer": {
+    "name": "Sunita Kadam",
+    "designation": "District Apiculture Auditor",
+    "agency": "National Bee Board (NBB) Certified",
+    "badgeId": "NBB-MH-8104",
+    "rating": 4.7,
+    "reviewsCount": 104,
+    "inspectedAt": "16 Jun 2026, 01:15 PM IST",
+    "station": "Satara District Honey Testing Station"
+  },
+  "geography": {
+    "region": "Sahyadri Western Ghats Escarpment",
+    "state": "Maharashtra, India",
+    "coordinates": "17.9237° N, 73.6586° E",
+    "altitude": "1,350m ASL",
+    "terrain": "Semi-evergreen mountain plateau & forest ridge",
+    "dominantFlora": "Syzygium cumini (Black Jamun) & Terminalia chebula",
+    "soilType": "Lateritic Red Mountain Soil, Forest Reserves"
+  },
+  "qualityAnalysis": {
+    "moisture": "18.2%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "9.8 mg/kg",
+    "hmfStatus": "Fresh & Unprocessed (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% C4 Sugar detected via NMR)",
+    "pollenDensity": "31,000 grains/g",
+    "adulterationStatus": "100% Authentic Jamun Blossom Honey"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Mahabaleshwar Ridge",
+      "date": "14 Jun 2026",
+      "status": "Jamun Bloom Season"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Satara Valley Apiary",
+      "date": "14 Jun 2026",
+      "status": "Wild Comb Harvest"
+    },
+    {
+      "stage": "Processing",
+      "location": "Pune Apiculture Lab",
+      "date": "16 Jun 2026",
+      "status": "Cold Micro-Filtered"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Mumbai Terminal Hub",
+      "date": "20 Jun 2026",
+      "status": "Certified Sealed"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "20 Jun 2026",
+      "status": "Certified"
+    }
+  ]
+}

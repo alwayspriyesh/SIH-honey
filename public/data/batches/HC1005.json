@@ -1,0 +1,72 @@
+{
+  "batchId": "HC1005",
+  "honeyType": "Wayanad Raw Forest Honey",
+  "producer": "Green Valley Beekeepers",
+  "location": "Wayanad, Kerala",
+  "harvestDate": "15 Aug 2026",
+  "manufacturingDate": "20 Aug 2026",
+  "weight": "500g",
+  "status": "Verified",
+  "notes": "Grade A raw forest nectar collected from protected biosphere reserves.",
+  "moistureContent": "17.2%",
+  "officer": {
+    "name": "Dr. Ramesh Menon",
+    "designation": "Senior Food Safety & Quality Officer",
+    "agency": "National Bee Board & FSSAI Certified",
+    "badgeId": "NBB-KL-4092",
+    "rating": 4.9,
+    "reviewsCount": 184,
+    "inspectedAt": "17 Aug 2026, 11:30 AM IST",
+    "station": "Wayanad Regional Honey Inspection Station"
+  },
+  "geography": {
+    "region": "Wayanad Biosphere Reserve (Buffer Zone)",
+    "state": "Kerala, India",
+    "coordinates": "11.6854° N, 76.1320° E",
+    "altitude": "1,150m ASL",
+    "terrain": "Moist evergreen mountain forest canopy",
+    "dominantFlora": "Wild Forest Flora & Terminalia Paniculata",
+    "soilType": "Organic Forest Humus, Zero Agro-chemicals"
+  },
+  "qualityAnalysis": {
+    "moisture": "17.2%",
+    "moistureStatus": "Optimal (< 20% Standard)",
+    "hmfLevel": "8.4 mg/kg",
+    "hmfStatus": "Fresh, Raw & Unheated (< 40 mg/kg Standard)",
+    "c4SugarTest": "Negative (0.0% Added C4 Sugar detected via NMR)",
+    "pollenDensity": "42,000 grains/g",
+    "adulterationStatus": "100% Pure Raw Honey"
+  },
+  "traceability": [
+    {
+      "stage": "Bee Farm",
+      "location": "Wayanad, Kerala",
+      "date": "15 Aug 2026",
+      "status": "Collected"
+    },
+    {
+      "stage": "Harvest",
+      "location": "Wayanad Apiary #04",
+      "date": "15 Aug 2026",
+      "status": "Matured Comb"
+    },
+    {
+      "stage": "Processing",
+      "location": "Cold Filtration Facility",
+      "date": "17 Aug 2026",
+      "status": "Unheated"
+    },
+    {
+      "stage": "Packaging",
+      "location": "Wayanad Hub",
+      "date": "20 Aug 2026",
+      "status": "Tamper Sealed"
+    },
+    {
+      "stage": "Verified",
+      "location": "Honey Chain Protocol",
+      "date": "20 Aug 2026",
+      "status": "Verified"
+    }
+  ]
+}

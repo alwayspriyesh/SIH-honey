@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, DM_Serif_Display } from "next/font/google";
+import { AndroidBackButtonHandler } from "@/components/navigation/AndroidBackButtonHandler";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -32,6 +33,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 5,
   themeColor: "#FAF9F5",
+  viewportFit: "cover",
 };
 
 export default function RootLayout({
@@ -45,6 +47,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${dmSerifDisplay.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-bg text-text-main">
+        <AndroidBackButtonHandler />
         {children}
       </body>
     </html>
